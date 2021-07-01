@@ -84,6 +84,7 @@ Answer : it is a tool used troubleshoot DNS related issues.
 Answer: DHCP is used to automatically provide IP address to client computers.
 
 ## 16. Explain DHCP 4 packets.
+![](https://download.huawei.com/mdl/image/download?uuid=c86f2576de8e450ebf2eb8bd076a7b0b)
 - Discover = client sends request for IP.
 - Offer = DHCP server send and Offer with IP address.
 - Request = if clients accepts the IP it sends a request to DHCP.
