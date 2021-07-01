@@ -3,6 +3,15 @@
 # TCP/IP INTERVIEW QUESTIONS:
 ![](http://1.bp.blogspot.com/-NZWznbFZdYk/U5YQ12q4UEI/AAAAAAAAAZI/CabndXPDi-A/s1600/tcp.gif)
 
+Explain in short about all 7 layers of OSI
+- Application layer = user interface and application
+- Presentation layer  = Data conversion and transformation
+- session layer  = keep data of diff. application seperately
+- transport layer  = end to end connectivity using port numbers.
+- network layer = logical addressing like IP address.
+- Data link layer = Physical addressing like MAC address.
+- Physical layer  = Physical transmission of data using 0's and 1's.
+
 ## 1. Explain range of TCP/IP classes
 Answer :
 - CLASS A = 1 to 126
