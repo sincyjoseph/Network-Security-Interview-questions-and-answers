@@ -60,4 +60,66 @@ Answer :
 ## 10. What is full form of PING ?
 Answer : Packet Internet Network Gopher
 
-# BASICS OF NETWORKING
+## 11. What is DNS ?
+Answer : It is used to resolve FQDN to IP address.
+
+## 12. Types of Zone in DNS ?
+Answer : 
+- Forward Lookup - it is used to resolve FQDN to IP
+- Reverse lookup - it is used to resolve IP to FQDN
+
+## 13. Types of DNS Zone ?
+Primary Zone 
+Secondary Zone 
+AD integrated Zone 
+Stub Zone 
+
+## 14. what is NSlookup ?
+Answer : it is a tool used troubleshoot DNS related issues.
+
+## 15. What is DHCP ?
+Answer: DHCP is used to automatically provide IP address to client computers.
+
+## 16. Explain DHCP 4 packets.
+- Discover = client sends request for IP.
+- Offer = DHCP server send and Offer with IP address.
+- Request = if clients accepts the IP it sends a request to DHCP.
+- Ack = DHCP server sends ack for the same.
+
+## 17. What is client reservation in DHCP ?
+Answer : to reserve a specific IP for a specific machine or host.
+
+## 18. Which port number DHCP uses?
+Answer : DHCP uses UDP port number 67 and 68.
+
+## 19. Port numbers for various application and services
+There are total 65536 ports available. Below are the list of some well-known ports.
+- LDAP  : 389
+- Kerberos : 88
+- DNS  : 53
+- SMTP  : 25
+- POP3  : 110
+- Telnet  : 23
+- NNTP  : 119
+- IMAP  : 143
+- RPC  : 135
+- HTTP  : 80
+- HTTPS / SSL : 443
+- FTP  : 21
+- SNMP : 161 and 162
+
+## 19. What is SNMP ?
+Answer : SNMP stands for Simple Network Management Protocol). This protocol is used to monitor and manage network devices like Switches, Routers, Servers, etc. SNMP
+uses port UDP port number 161 and 162.
+
+## 20. What is COM ?
+Answer : Component Object Model (COM) is Microsoft's object-oriented programming model that defines how objects interact within a single application or between applications.
+
+## 21. What is RPC protocol ?
+Answer : RPC stands for Remote Procedure Call. It uses port number 135. RPC is an inter-process communication technique that allows client and server software to communicate.
+
+## 22. What is firewall ?
+Answer : It is a software used to provide security to your network by not allowing unauthorized access to your Internal network from External users. Eg : PIX firewall, Checkpoint firewall, etc.
+
+## 23. Which protocol is used by ADS for time sync. between PC's?
+Answer : SNTP (Simple network time protocol)
