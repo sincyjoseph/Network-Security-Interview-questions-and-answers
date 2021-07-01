@@ -174,3 +174,11 @@ Routers have a built-in console that lets you configure different settings, like
 
 ## 35. What are the routing protocol?
 ![](https://media.geeksforgeeks.org/wp-content/uploads/Routing-Protocols.png)
+
+## 36. Difference between hub, router and switches?
+![](https://i.ytimg.com/vi/ZvWn5xBflUs/maxresdefault.jpg)
+
+![](https://i.pinimg.com/originals/58/30/f1/5830f1419c1b7ae2fb589e5e8849b5d2.jpg)
+
+![](https://www.sitesbay.com/computer-network/images/difference-between-switch-router-hub.jpg)
+
