@@ -1,5 +1,6 @@
 # Network-Security-Interview-questions-and-answers
 
+# TCP/IP INTERVIEW QUESTIONS:
 ![](http://1.bp.blogspot.com/-NZWznbFZdYk/U5YQ12q4UEI/AAAAAAAAAZI/CabndXPDi-A/s1600/tcp.gif)
 
 ## 1. Explain range of TCP/IP classes
@@ -46,3 +47,8 @@ Answer :
 | supports routing   | Non routable          |
 | Large network      | small network         | 
 | more confiugration | no configuration      |
+
+## 10. What is full form of PING ?
+Answer : Packet Internet Network Gopher
+
+# BASICS OF NETWORKING
