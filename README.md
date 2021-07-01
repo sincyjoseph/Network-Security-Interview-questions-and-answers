@@ -136,6 +136,8 @@ There are 7 OSI layers: 1) Physical Layer, 2) Data Link Layer, 3) Network Layer,
 Data encapsulation is the process of breaking down information into smaller, manageable chunks before it is transmitted across the network. In this process that the source and destination addresses are attached to the headers, along with parity checks.
 
 ## 26. What is a VPN?
+
+![](https://www.slideteam.net/media/catalog/product/cache/960x720/v/p/vpn_tunnel_structure_architecture_corporate_internet_connection_servers_network_slide03.jpg)
 VPN means Virtual Private Network, a technology that allows a secure tunnel to be created across a network such as the Internet. For example, VPNs allow you to establish a secure dial-up connection to a remote server.
 
 ## 27. Briefly describe NAT
