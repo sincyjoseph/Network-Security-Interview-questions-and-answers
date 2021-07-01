@@ -37,7 +37,12 @@ Answer : Ping uses ICMP(Internet Control Message Protocol)
 ## 8. What is used of Tracert ?
 Answer : Tracert is a to find path information between source and desitnation. It show no. of hops between source and desitination. Tracert also uses ICMP protocol.
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+## 9. Difference between NetBEUI and TCP/IP
+Answer :
+| TCP/IP             | NetBEUI               |
+| -------------      | -------------         |
+| industry standard  | Microsoft propertiery |
+| IP address         | NO addressing         |
+| supports routing   | Non routable          |
+| Large network      | small network         | 
+| more confiugration | no configuration      |
