@@ -15,7 +15,7 @@ Explain in short about all 7 layers of OSI
 ## 1. Explain range of TCP/IP classes
 Answer :
 
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fembeddedgeeks.com%2Fnetwork-ip-classes%2F&psig=AOvVaw1HiPxbSvfYyntSY9_cemnC&ust=1625244676851000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCMiy_MmqwvECFQAAAAAdAAAAABAD)
+![](https://github.com/sincyjoseph/Network-Security-Interview-questions-and-answers/blob/main/ip_Class-1.png)
 
 - CLASS A = 1 to 126
 - CLASS B = 128 to 191
