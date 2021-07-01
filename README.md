@@ -147,5 +147,18 @@ VPN means Virtual Private Network, a technology that allows a secure tunnel to b
 NAT is Network Address Translation. This is a protocol that provides a way for multiple computers on a common network to share a single connection to the Internet.
 
 ## 28. What are MAC addresses?
-MAC, or Media Access Control, uniquely identifies a device on the network. It is also known as a physical address or an Ethernet address. A MAC address is made up of 6-byte parts.
 ![](https://media.geeksforgeeks.org/wp-content/uploads/mac.jpg)
+MAC, or Media Access Control, uniquely identifies a device on the network. It is also known as a physical address or an Ethernet address. A MAC address is made up of 6-byte parts.
+
+## 28. What is SLIP?
+SLIP, or Serial Line Interface Protocol, is an old protocol developed during the early UNIX days. This is one of the protocols that are used for remote access.
+
+## 29. What is tracert?
+Tracert is a Windows utility program that can use to trace the route taken by data from the router to the destination network. It also shows the number of hops taken during the entire transmission route.
+
+## 30. What is DHCP?
+DHCP is short for Dynamic Host Configuration Protocol. Its main task is to assign an IP address to devices across the network automatically. It first checks for the next available address not yet taken by any device, then assigns this to a network device.
+
+## 31. What is the main job of the ARP?
+![](https://gsephrioth.github.io/assets/img/TCP-IP/Figure7.3.png)
+The main task of the ARP or Address Resolution Protocol is to map a known IP address to a MAC layer address.
