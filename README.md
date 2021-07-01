@@ -140,5 +140,6 @@ VPN means Virtual Private Network, a technology that allows a secure tunnel to b
 
 ## 27. Briefly describe NAT
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/NAT_Concept-en.svg/220px-NAT_Concept-en.svg.png)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/NAT_Concept-en.svg/1024px-NAT_Concept-en.svg.png)
+
 NAT is Network Address Translation. This is a protocol that provides a way for multiple computers on a common network to share a single connection to the Internet.
