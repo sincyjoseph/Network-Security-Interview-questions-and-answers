@@ -162,3 +162,12 @@ DHCP is short for Dynamic Host Configuration Protocol. Its main task is to assig
 ## 31. What is the main job of the ARP?
 ![](https://gsephrioth.github.io/assets/img/TCP-IP/Figure7.3.png)
 The main task of the ARP or Address Resolution Protocol is to map a known IP address to a MAC layer address.
+
+## 32. What is TCP/IP?
+TCP/IP is short for Transmission Control Protocol / Internet Protocol. This is a set of protocol layers that is designed to make data exchange possible on different types of computer networks, also known as a heterogeneous network.
+
+## 33. How can you manage a network using a router?
+Routers have a built-in console that lets you configure different settings, like security and data logging. You can assign restrictions to computers, such as what resources it is allowed access or what particular time of the day, they can browse the Internet. You can even put restrictions on what websites are not viewable across the entire network.
+
+## 34. What is the difference between TCP and UDP?
+![](https://www.researchgate.net/profile/Yasir-Ali-9/publication/320114709/figure/tbl1/AS:768560301355010@1560250463196/Comparison-between-TCP-and-UDP.png)
