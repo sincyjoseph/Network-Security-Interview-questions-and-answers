@@ -171,3 +171,6 @@ Routers have a built-in console that lets you configure different settings, like
 
 ## 34. What is the difference between TCP and UDP?
 ![](https://www.researchgate.net/profile/Yasir-Ali-9/publication/320114709/figure/tbl1/AS:768560301355010@1560250463196/Comparison-between-TCP-and-UDP.png)
+
+## 35. What are the routing protocol?
+![](https://media.geeksforgeeks.org/wp-content/uploads/Routing-Protocols.png)
