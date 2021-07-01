@@ -14,6 +14,9 @@ Explain in short about all 7 layers of OSI
 
 ## 1. Explain range of TCP/IP classes
 Answer :
+
+![](https://www.google.com/imgres?imgurl=https%3A%2F%2Fembeddedgeeks.com%2Fwp-content%2Fuploads%2F2020%2F06%2Fip_Class-1.png&imgrefurl=https%3A%2F%2Fembeddedgeeks.com%2Fnetwork-ip-classes%2F&tbnid=Rt-OZrQMrlvT7M&vet=12ahUKEwj6zK6uqsLxAhWWWCsKHVPdDDwQMygCegUIARDBAQ..i&docid=PyLvOhqFZ3Cs7M&w=575&h=356&q=ip%20address%20classes&ved=2ahUKEwj6zK6uqsLxAhWWWCsKHVPdDDwQMygCegUIARDBAQ)
+
 - CLASS A = 1 to 126
 - CLASS B = 128 to 191
 - CLASS C = 192 to 223
@@ -123,3 +126,16 @@ Answer : It is a software used to provide security to your network by not allowi
 
 ## 23. Which protocol is used by ADS for time sync. between PC's?
 Answer : SNTP (Simple network time protocol)
+
+## 24. What are the layers of the OSI reference model?
+There are 7 OSI layers: 1) Physical Layer, 2) Data Link Layer, 3) Network Layer, 4) Transport Layer, 5) Session Layer, 6) Presentation Layer, and 7) Application Layer.
+
+## 25. What is data encapsulation?
+Data encapsulation is the process of breaking down information into smaller, manageable chunks before it is transmitted across the network. In this process that the source and destination addresses are attached to the headers, along with parity checks.
+
+## 26. What is a VPN?
+VPN means Virtual Private Network, a technology that allows a secure tunnel to be created across a network such as the Internet. For example, VPNs allow you to establish a secure dial-up connection to a remote server.
+
+## 27. Briefly describe NAT
+
+NAT is Network Address Translation. This is a protocol that provides a way for multiple computers on a common network to share a single connection to the Internet.
