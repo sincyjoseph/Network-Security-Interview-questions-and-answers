@@ -145,3 +145,7 @@ VPN means Virtual Private Network, a technology that allows a secure tunnel to b
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/NAT_Concept-en.svg/1024px-NAT_Concept-en.svg.png)
 
 NAT is Network Address Translation. This is a protocol that provides a way for multiple computers on a common network to share a single connection to the Internet.
+
+## 28. What are MAC addresses?
+MAC, or Media Access Control, uniquely identifies a device on the network. It is also known as a physical address or an Ethernet address. A MAC address is made up of 6-byte parts.
+![](https://media.geeksforgeeks.org/wp-content/uploads/mac.jpg)
