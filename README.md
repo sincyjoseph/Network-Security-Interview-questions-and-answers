@@ -120,6 +120,7 @@ uses port UDP port number 161 and 162.
 Answer : Component Object Model (COM) is Microsoft's object-oriented programming model that defines how objects interact within a single application or between applications.
 
 ## 21. What is RPC protocol ?
+![](https://book.systemsapproach.org/_images/f05-14-9780123850591.png)
 Answer : RPC stands for Remote Procedure Call. It uses port number 135. RPC is an inter-process communication technique that allows client and server software to communicate.
 
 ## 22. What is firewall ?
